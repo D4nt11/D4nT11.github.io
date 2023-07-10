@@ -167,3 +167,7 @@ a {
 	justify-content: center;  */
 	margin-top: 30%;
 }
+
+label {
+	z-index: 1;
+}
